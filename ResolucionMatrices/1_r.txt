@@ -1,0 +1,8 @@
+                                      RESULTADOS
+
+
+Las incognitas apareceran desde x1 y se iran incrementando
+
+Las incognitas son: [-1.3111977502236989, 0.802633260897354, -1.4155055605266524, 3.381375431420171]
+
+La precision del resultado es: [0.0, -1.7763568394002505e-15, -2.842170943040401e-14, 3.552713678800501e-15] para cada ecuacion del sistema
