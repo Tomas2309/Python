@@ -1,0 +1,5 @@
+Pagos Efectuados:
+Servicio: Movistar
+Importe Pagado: 1500
+Vencimiento: 09/06/2023
+Medio de Pago: Mercado Pago
